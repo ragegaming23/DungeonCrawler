@@ -1,0 +1,2 @@
+display_message("Hello, world!");
+load_map("Outside", coord[0, 0, 0], SOUTH);
