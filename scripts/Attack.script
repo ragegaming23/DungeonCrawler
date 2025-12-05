@@ -1,0 +1,2 @@
+play_animation(initiator, "anim_name");
+damage_entity(entity["entity_id"], 1);

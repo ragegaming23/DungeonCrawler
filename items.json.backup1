@@ -9,8 +9,6 @@
       "stackable": false,
       "equippable": true,
       "effects": [{"amount":1,"stat":"attack","type":"stat_boost"}],
-      "on_equip_script": "equip",
-      "on_unequip_script": "unequip",
       "weapon": true,
       "weapon_type": "melee",
       "weapon_min_damage": 1,

@@ -1,0 +1,1 @@
+damage_entity(entity["entity_id"], 1);

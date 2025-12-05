@@ -1,0 +1,1 @@
+detach_object(player, "attach_point_id");
