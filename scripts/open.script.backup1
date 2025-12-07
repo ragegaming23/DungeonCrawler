@@ -1,2 +1,3 @@
 play_animation(self, "anim_name");
 add_effect("ptrn_EF_healer_mace", coord[0, 0, 0], "entity_id");
+give_currency(100);

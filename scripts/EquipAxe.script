@@ -1,0 +1,1 @@
+attach_object("ptrn_AT_warrior_axe", player, "hand", "right_hand");

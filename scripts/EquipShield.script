@@ -1,0 +1,1 @@
+attach_object("ptrn_AT_warrior_greatshield", player, "shield", "left_hand");

@@ -1,0 +1,2 @@
+give_item("ITEM_0001");
+give_item("ITEM_0002", 5);

@@ -1,0 +1,1 @@
+attach_object("sword", player, "right_hand");
