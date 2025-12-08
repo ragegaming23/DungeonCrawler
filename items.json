@@ -212,6 +212,19 @@
       "object": "sword",
       "view_model_object": "sword",
       "usable": false
+    },
+    {
+      "id": "ITEM_0012",
+      "name": "Magic potion",
+      "description": "",
+      "tags": [],
+      "properties": {},
+      "stackable": true,
+      "stack_limit": 30,
+      "cost": 10,
+      "usable": true,
+      "num_of_uses": 1,
+      "script": "GainMP"
     }
   ],
   "localized": false

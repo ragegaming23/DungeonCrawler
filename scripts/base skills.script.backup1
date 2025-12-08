@@ -1,0 +1,2 @@
+give_skill("SKILL_0001");
+give_skill("SKILL_0002");
