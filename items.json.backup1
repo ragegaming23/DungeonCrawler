@@ -223,7 +223,8 @@
       "stack_limit": 30,
       "cost": 10,
       "usable": true,
-      "num_of_uses": 1
+      "num_of_uses": 1,
+      "script": "GainMP"
     }
   ],
   "localized": false

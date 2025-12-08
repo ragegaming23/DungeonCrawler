@@ -1,0 +1,2 @@
+play_animation(self, "anim_name");
+play_animation(entity["First floor bossDoor"], "anim_name");
